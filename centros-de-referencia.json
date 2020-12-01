@@ -387,6 +387,7 @@
     {
         "Instituição": "CEMA (Central de Medicamentos do Amazonas)",
         "Endereço": " Rua Duque de Caxias, nº 1998",
+        "CEP ":"69020-141",
         "Cidade": "Manaus ",
         "UF": "AM"
     },
@@ -400,6 +401,7 @@
     {
         "Instituição": "HU MACEIÓ",
         "Endereço": "Av. Lourival Melo Mota, S/N - Tabuleiro do Martins",
+        "CEP ":"",
         "Cidade": "Maceio",
         "UF": "AL"
     },
@@ -483,6 +485,7 @@
     {
         "Instituição": "H. Universitário",
         "Endereço": "Condomínio Residence Flanboyant - R. Profa. Maria Flora Pausewang, 108",
+        "CEP ":"88036-800",
         "Cidade": "Florianopolis",
         "UF": "SC"
     },
@@ -576,5 +579,12 @@
         "CEP ": "64049-550",
         "Cidade": "Teresina ",
         "UF": "PI"
+    },
+    {
+        "Instituição": "HC SALVADOR",
+        "Endereço": "Rua Doutor Augusto Viana, 1 - Canela ",
+        "CEP ": "40110-060",
+        "Cidade": "Bahia ",
+        "UF": "BA"
     }
 ]
